@@ -8,3 +8,8 @@
   <li>Then copy that API key and paste it where it says api key where the link is put in on lines 15, 28, 36, and 44</li>
   <li>Next go to discord developer portal and make a new application and get the token. If you want more help on that please go here <a href="https://www.youtube.com/watch?v=b61kcgfOm_4">to this video</a>
 </ul>
+
+# Required Packages
+````
+pip install discord.py
+````
